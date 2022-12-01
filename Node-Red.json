@@ -1,0 +1,4986 @@
+[
+    {
+        "id": "315c6f9f74a1e5a1",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ddd51ee0ccc8c0d0",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "d68a1a700a429d3b",
+        "type": "tab",
+        "label": "Flow 3",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1ad379a6ba9b33ea",
+        "type": "tab",
+        "label": "Reto",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ed9446b91438a775",
+        "type": "tab",
+        "label": "retocalidadaire",
+        "disabled": true,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "24b3d336516ac134",
+        "type": "tab",
+        "label": "Flow 5",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "d53587393615e2ff",
+        "type": "tab",
+        "label": "Final en otra",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "ae9f0dfa1d067514",
+        "type": "tab",
+        "label": "Flow 4",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1641f7d6a5d7c8d3",
+        "type": "tab",
+        "label": "Gauge",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "24f0333c20b760ab",
+        "type": "tab",
+        "label": "Flow 6",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "d0228c14018ef9d9",
+        "type": "tab",
+        "label": "Flow 5",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "58a2d02636539861",
+        "type": "tab",
+        "label": "Flow 5",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "158f609091a79fda",
+        "type": "tab",
+        "label": "Flow 5",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "0673a82dde56627c",
+        "type": "tab",
+        "label": "Flow 7",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "909eb64bd1edbfc0",
+        "type": "tab",
+        "label": "Flow 8",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "d9bd31cd9e83bb2c",
+        "type": "tab",
+        "label": "Flow 9",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "8644ef86eac454ef",
+        "type": "tab",
+        "label": "Gauge",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "13e963c67b8826f9",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "10.48.117.28",
+        "port": "3306",
+        "db": "prueba",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "9f32769fa9c8cd1d",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "127.0.0.1:1883",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "97ffa648e9362338",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "127.0.0.1",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "17a6716e9edf92e5",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "10.48.77.188",
+        "port": "3306",
+        "db": "retodraft5",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "fecc37168c3babc3",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "10.48.64.176",
+        "port": "3306",
+        "db": "retoCalidadAire",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "cac198ee8cf5e917",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "10.48.64.176",
+        "port": "3306",
+        "db": "retocalidadaire",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "c96f3ce7dcd10095",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "retocalidadaire",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "9542db926ab13363",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "16df240564f39707",
+        "type": "ui_tab",
+        "name": "Módulo 5",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "ba7e746fa4dcbe77",
+        "type": "ui_group",
+        "name": "Mediciones recientes",
+        "tab": "16df240564f39707",
+        "order": 1,
+        "disp": true,
+        "width": "32",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "668a39d1eeac5686",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "8574fb730a4cac47",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "2a79f0fd80a5b17e",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "9afd4da9e40d9dc0",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "8becf883b8398453",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "acab2997fe5e0243",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 6,
+        "width": "1",
+        "height": "1"
+    },
+    {
+        "id": "4b9ce6d704635eb2",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 10,
+        "width": "1",
+        "height": "1"
+    },
+    {
+        "id": "693595c5df8f9f66",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 7,
+        "width": "1",
+        "height": "1"
+    },
+    {
+        "id": "055715a06e452805",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 8,
+        "width": "0",
+        "height": "0"
+    },
+    {
+        "id": "66c818657e66cbd9",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 9,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ef8091e30ff13fd2",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 11,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "9dd09eaa5a905f3e",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 12,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "22339fd58f6560e5",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "",
+        "order": 13,
+        "width": "1",
+        "height": "1"
+    },
+    {
+        "id": "c6fc93fcde8ab959",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "bd3e08f6c76a765d",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "57b84189db743c6c",
+        "type": "ui_spacer",
+        "z": "1641f7d6a5d7c8d3",
+        "name": "spacer",
+        "group": "bd3e08f6c76a765d",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "49b939a689fbc088",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "bdfinal",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "6b94bd6d6b14e1c3",
+        "type": "MySQLdatabase",
+        "name": "",
+        "host": "localhost",
+        "port": "3306",
+        "db": "retofinal",
+        "tz": "",
+        "charset": "UTF8"
+    },
+    {
+        "id": "81a7725fde2222c0",
+        "type": "ui_group",
+        "name": "Group 2",
+        "tab": "99e8cfd322c65ba5",
+        "order": 1,
+        "disp": true,
+        "width": "10",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "5da09075f32d734b",
+        "type": "ui_group",
+        "name": "Gráficas",
+        "tab": "d773e2ee5ee2a336",
+        "order": 1,
+        "disp": true,
+        "width": "12",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "bc99911163a35e26",
+        "type": "ui_group",
+        "name": "Group 2",
+        "tab": "99e8cfd322c65ba5",
+        "order": 3,
+        "disp": true,
+        "width": "10",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "bd3e08f6c76a765d",
+        "type": "ui_group",
+        "name": "Group 3",
+        "tab": "99e8cfd322c65ba5",
+        "order": 2,
+        "disp": false,
+        "width": "1",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "99e8cfd322c65ba5",
+        "type": "ui_tab",
+        "name": "Modulo 1",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "d773e2ee5ee2a336",
+        "type": "ui_tab",
+        "name": "Tab 2",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "5e0307c8a9b0c9a7",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "af989db645482915",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 2,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ddabb9ab39343855",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "af6dd6899aae8293",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "3e98a6bf8d680520",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 5,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ec59a5fc45b637b1",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 6,
+        "width": "1",
+        "height": "1"
+    },
+    {
+        "id": "7e70750f61a4af13",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 10,
+        "width": "1",
+        "height": "1"
+    },
+    {
+        "id": "83efe1c20ac0018c",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 7,
+        "width": "1",
+        "height": "1"
+    },
+    {
+        "id": "daeadbe5294f0b0d",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 8,
+        "width": "0",
+        "height": "0"
+    },
+    {
+        "id": "b342aec1debe9077",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 9,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "5ad741a4c0eacc04",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 11,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "2bdb46c2f69846b5",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 12,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "a19bc4f91fc00cc4",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "",
+        "order": 13,
+        "width": "1",
+        "height": "1"
+    },
+    {
+        "id": "866aa7fbd2222401",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "bd3e08f6c76a765d",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "e0cc15bd43f7a632",
+        "type": "ui_spacer",
+        "z": "8644ef86eac454ef",
+        "name": "spacer",
+        "group": "bd3e08f6c76a765d",
+        "order": 3,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "304095d3587deae1",
+        "type": "inject",
+        "z": "ddd51ee0ccc8c0d0",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "SELECT * FROM `lecturas`;",
+        "payload": "",
+        "payloadType": "date",
+        "x": 220,
+        "y": 280,
+        "wires": [
+            [
+                "e5527dcad2613a1d"
+            ]
+        ]
+    },
+    {
+        "id": "280412ad4903ea13",
+        "type": "debug",
+        "z": "ddd51ee0ccc8c0d0",
+        "name": "debug 5",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 820,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "1a555257a530ee50",
+        "type": "function",
+        "z": "ddd51ee0ccc8c0d0",
+        "name": "function 2",
+        "func": "let SENSOR_ID = 1;\nlet TIEMPO = new Date();\nlet TEMPERATURA = 25;\nlet HUMEDAD = 30;\nmsg.payload = [SENSOR_ID, TIEMPO, TEMPERATURA, HUMEDAD];\nmsg.topic = 'INSERT INTO lecturas (lecturas.Sensor_ID, lecturas.Tiempo, lecturas.Temperatura, lecturas.Humedad) VALUES (?,?,?,?);';\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 620,
+        "y": 280,
+        "wires": [
+            [
+                "280412ad4903ea13"
+            ]
+        ]
+    },
+    {
+        "id": "e5527dcad2613a1d",
+        "type": "mysql",
+        "z": "ddd51ee0ccc8c0d0",
+        "mydb": "13e963c67b8826f9",
+        "name": "",
+        "x": 420,
+        "y": 280,
+        "wires": [
+            [
+                "1a555257a530ee50"
+            ]
+        ]
+    },
+    {
+        "id": "f7eb0680bc3c26ab",
+        "type": "mqtt in",
+        "z": "d68a1a700a429d3b",
+        "name": "",
+        "topic": "message",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "9f32769fa9c8cd1d",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 280,
+        "y": 180,
+        "wires": [
+            [
+                "42a0fe9011c61380"
+            ]
+        ]
+    },
+    {
+        "id": "42a0fe9011c61380",
+        "type": "debug",
+        "z": "d68a1a700a429d3b",
+        "name": "debug 6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 480,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "3dc73f7b0f2296e8",
+        "type": "mqtt in",
+        "z": "1ad379a6ba9b33ea",
+        "name": "",
+        "topic": "/humidity",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "97ffa648e9362338",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 320,
+        "y": 300,
+        "wires": [
+            [
+                "2f5cef287069b964"
+            ]
+        ]
+    },
+    {
+        "id": "e45c60f6c879b0bb",
+        "type": "mqtt in",
+        "z": "1ad379a6ba9b33ea",
+        "name": "",
+        "topic": "/temperature",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "97ffa648e9362338",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 330,
+        "y": 360,
+        "wires": [
+            [
+                "a5012755c43c341f"
+            ]
+        ]
+    },
+    {
+        "id": "94a72f769aa8056b",
+        "type": "mqtt in",
+        "z": "1ad379a6ba9b33ea",
+        "name": "",
+        "topic": "/rain",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "97ffa648e9362338",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 310,
+        "y": 420,
+        "wires": [
+            [
+                "dcbcef3a84181520"
+            ]
+        ]
+    },
+    {
+        "id": "62ce369413cc15fe",
+        "type": "mqtt in",
+        "z": "1ad379a6ba9b33ea",
+        "name": "",
+        "topic": "/CO",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "97ffa648e9362338",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 310,
+        "y": 480,
+        "wires": [
+            [
+                "71919b46cee9ba29"
+            ]
+        ]
+    },
+    {
+        "id": "c84aaa9c2d2268d0",
+        "type": "mqtt in",
+        "z": "1ad379a6ba9b33ea",
+        "name": "",
+        "topic": "/CO2",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "97ffa648e9362338",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 310,
+        "y": 540,
+        "wires": [
+            [
+                "aba5e1ede1b8e851"
+            ]
+        ]
+    },
+    {
+        "id": "2f5cef287069b964",
+        "type": "function",
+        "z": "1ad379a6ba9b33ea",
+        "name": "Query para insertar datos de humedad en la base de datos",
+        "func": "let mac = \"48:3F:DA:44:08:FA\"\nlet d = new Date();\n\nvar hours = d.getHours() \nvar minutes = d.getMinutes() \nvar seconds = d.getSeconds() \n\nlet hora = hours + \":\" + minutes + \":\" + seconds;\nlet humedad = msg.payload;\n\nmsg.payload = [d, hora,humedad, mac];\nmsg.topic=\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\"\nreturn msg;\n\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 300,
+        "wires": [
+            [
+                "4966ab9e73bad09a"
+            ]
+        ]
+    },
+    {
+        "id": "a5012755c43c341f",
+        "type": "function",
+        "z": "1ad379a6ba9b33ea",
+        "name": "Query para insertar datos de temperatura en la base de datos",
+        "func": "let mac = \"48:3F:DA:44:08:FA\"\nlet d = new Date();\n\nvar hours = d.getHours()\nvar minutes = d.getMinutes()\nvar seconds = d.getSeconds()\n\nlet hora = hours + \":\" + minutes + \":\" + seconds;\nlet temperatura = msg.payload;\n\nmsg.payload = [d, hora, temperatura, mac];\nmsg.topic = \"INSERT INTO lecturatemperatura (fecha, hora, temperatura, macAddress) VALUES(?,?,?,?);\"\nreturn msg;\n\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 770,
+        "y": 360,
+        "wires": [
+            [
+                "a542fd9f85f7e19a"
+            ]
+        ]
+    },
+    {
+        "id": "dcbcef3a84181520",
+        "type": "function",
+        "z": "1ad379a6ba9b33ea",
+        "name": "Query para insertar datos de lluvia en la base de datos",
+        "func": "let mac = \"48:3F:DA:44:08:FA\"\nlet d = new Date();\n\nvar hours = d.getHours()\nvar minutes = d.getMinutes()\nvar seconds = d.getSeconds()\n\nlet hora = hours + \":\" + minutes + \":\" + seconds;\nlet lluvia = msg.payload;\n\nmsg.payload = [d, hora, lluvia, mac];\nmsg.topic = \"INSERT INTO lecturalluvia (fecha, hora, lluvia, macAddress) VALUES(?,?,?,?);\"\nreturn msg;\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 420,
+        "wires": [
+            [
+                "8b4230c17473522a"
+            ]
+        ]
+    },
+    {
+        "id": "71919b46cee9ba29",
+        "type": "function",
+        "z": "1ad379a6ba9b33ea",
+        "name": "Query para insertar datos de CO en la base de datos",
+        "func": "let mac = \"48:3F:DA:44:08:FA\"\nlet d = new Date();\n\nvar hours = d.getHours()\nvar minutes = d.getMinutes()\nvar seconds = d.getSeconds()\n\nlet hora = hours + \":\" + minutes + \":\" + seconds;\nlet co = msg.payload;\n\nmsg.payload = [d, hora, co, mac];\nmsg.topic = \"INSERT INTO lecturaco (fecha, hora, coppm, macAddress) VALUES(?,?,?,?);\"\nreturn msg;\n\n\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 480,
+        "wires": [
+            [
+                "c19aecc6447f6f3f"
+            ]
+        ]
+    },
+    {
+        "id": "aba5e1ede1b8e851",
+        "type": "function",
+        "z": "1ad379a6ba9b33ea",
+        "name": "Query para insertar datos de CO2en la base de datos",
+        "func": "let mac = \"48:3F:DA:44:08:FA\"\nlet d = new Date();\n\nvar hours = d.getHours()\nvar minutes = d.getMinutes()\nvar seconds = d.getSeconds()\n\nlet hora = hours + \":\" + minutes + \":\" + seconds;\nlet co2 = msg.payload;\n\nmsg.payload = [d, hora, co2, mac];\nmsg.topic = \"INSERT INTO lecturaco2 (fecha, hora, co2ppm, macAddress) VALUES(?,?,?,?);\"\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 540,
+        "wires": [
+            [
+                "cac764a0a88f4a9e"
+            ]
+        ]
+    },
+    {
+        "id": "4966ab9e73bad09a",
+        "type": "mysql",
+        "z": "1ad379a6ba9b33ea",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 1180,
+        "y": 300,
+        "wires": [
+            [
+                "de315ac936a6cd3d"
+            ]
+        ]
+    },
+    {
+        "id": "de315ac936a6cd3d",
+        "type": "debug",
+        "z": "1ad379a6ba9b33ea",
+        "name": "debug 20",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1380,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "87e6e1a1165859a0",
+        "type": "debug",
+        "z": "1ad379a6ba9b33ea",
+        "name": "debug 21",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1380,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "84acacad7b918202",
+        "type": "debug",
+        "z": "1ad379a6ba9b33ea",
+        "name": "debug 22",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1380,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "8e6b798fe8784bce",
+        "type": "debug",
+        "z": "1ad379a6ba9b33ea",
+        "name": "debug 23",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1380,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "3c1630105fce9545",
+        "type": "debug",
+        "z": "1ad379a6ba9b33ea",
+        "name": "debug 24",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1380,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "a542fd9f85f7e19a",
+        "type": "mysql",
+        "z": "1ad379a6ba9b33ea",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 1180,
+        "y": 360,
+        "wires": [
+            [
+                "87e6e1a1165859a0"
+            ]
+        ]
+    },
+    {
+        "id": "cac764a0a88f4a9e",
+        "type": "mysql",
+        "z": "1ad379a6ba9b33ea",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 1180,
+        "y": 540,
+        "wires": [
+            [
+                "3c1630105fce9545"
+            ]
+        ]
+    },
+    {
+        "id": "c19aecc6447f6f3f",
+        "type": "mysql",
+        "z": "1ad379a6ba9b33ea",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 1180,
+        "y": 480,
+        "wires": [
+            [
+                "8e6b798fe8784bce"
+            ]
+        ]
+    },
+    {
+        "id": "8b4230c17473522a",
+        "type": "mysql",
+        "z": "1ad379a6ba9b33ea",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 1180,
+        "y": 420,
+        "wires": [
+            [
+                "84acacad7b918202"
+            ]
+        ]
+    },
+    {
+        "id": "fc48ad92aac3cb39",
+        "type": "inject",
+        "z": "ed9446b91438a775",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 220,
+        "y": 200,
+        "wires": [
+            [
+                "cf41a64d2d8d981f"
+            ]
+        ]
+    },
+    {
+        "id": "cf41a64d2d8d981f",
+        "type": "function",
+        "z": "ed9446b91438a775",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 200,
+        "wires": [
+            [
+                "447e390842fe978b"
+            ]
+        ]
+    },
+    {
+        "id": "447e390842fe978b",
+        "type": "mysql",
+        "z": "ed9446b91438a775",
+        "mydb": "c96f3ce7dcd10095",
+        "name": "calidadaire",
+        "x": 870,
+        "y": 200,
+        "wires": [
+            [
+                "cab46e08f6442f8f"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "cab46e08f6442f8f",
+        "type": "function",
+        "z": "ed9446b91438a775",
+        "name": "Extraer dato de humedad",
+        "func": "let chart_data = [{\n    \"series\":[\"Humedad\"],\n    \"data\": [[]],\n    \"labels\": [\"Humedad\"]\n}];\n\nfor (let i = 0; i<msg.payload.length; i++){\n    const entry = msg.payload[1];\n    var new_data_input = {};\n    new_data_input.x = entry.Tiempo;\n    new_data_input.y = entry.Humedad;\n    chart_data[0].data[0].push(new_data_input);\n}\n\nmsg.payload = chart_data;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1150,
+        "y": 200,
+        "wires": [
+            [
+                "a4f154ea55f44e7f"
+            ]
+        ]
+    },
+    {
+        "id": "a4f154ea55f44e7f",
+        "type": "ui_gauge",
+        "z": "ed9446b91438a775",
+        "name": "Humedad actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "12",
+        "height": "12",
+        "gtype": "gage",
+        "title": "Humedad",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "30",
+        "colors": [
+            "#3457e5",
+            "#e68600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1440,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "06f12dbd3a653e28",
+        "type": "function",
+        "z": "ed9446b91438a775",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 320,
+        "wires": [
+            [
+                "bc544ba547c5d77c"
+            ]
+        ]
+    },
+    {
+        "id": "b574685651183f60",
+        "type": "function",
+        "z": "ed9446b91438a775",
+        "name": "Extraer dato de temperatura",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1160,
+        "y": 320,
+        "wires": [
+            [
+                "2cc6ab2cc4f84534"
+            ]
+        ]
+    },
+    {
+        "id": "2cc6ab2cc4f84534",
+        "type": "ui_gauge",
+        "z": "ed9446b91438a775",
+        "name": "Temperatura actual",
+        "group": "",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "gauge",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": 10,
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1450,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "a3912359442c48e8",
+        "type": "function",
+        "z": "ed9446b91438a775",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 440,
+        "wires": [
+            [
+                "57292688719632f4"
+            ]
+        ]
+    },
+    {
+        "id": "53feaf37b6b30fc1",
+        "type": "function",
+        "z": "ed9446b91438a775",
+        "name": "Extraer dato de CO",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1130,
+        "y": 440,
+        "wires": [
+            [
+                "5aba4155d490045e"
+            ]
+        ]
+    },
+    {
+        "id": "5aba4155d490045e",
+        "type": "ui_gauge",
+        "z": "ed9446b91438a775",
+        "name": "CO actual",
+        "group": "",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "gauge",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": 10,
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1420,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "df366cc146c6bf28",
+        "type": "function",
+        "z": "ed9446b91438a775",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 540,
+        "wires": [
+            [
+                "bd87d9831ee7b5c5"
+            ]
+        ]
+    },
+    {
+        "id": "20b5620a2a91c6cb",
+        "type": "function",
+        "z": "ed9446b91438a775",
+        "name": "Extraer dato de CO2",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1140,
+        "y": 540,
+        "wires": [
+            [
+                "503cee9afad68abf"
+            ]
+        ]
+    },
+    {
+        "id": "503cee9afad68abf",
+        "type": "ui_gauge",
+        "z": "ed9446b91438a775",
+        "name": "CO2 actual",
+        "group": "",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "gauge",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": 10,
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1430,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "a0d97ece5f22c42a",
+        "type": "function",
+        "z": "ed9446b91438a775",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 660,
+        "wires": [
+            [
+                "c8289243eb71fa64"
+            ]
+        ]
+    },
+    {
+        "id": "6d287af4fd6e5a91",
+        "type": "function",
+        "z": "ed9446b91438a775",
+        "name": "Extraer dato de lluvia",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1140,
+        "y": 660,
+        "wires": [
+            [
+                "14e214a418105b3a"
+            ]
+        ]
+    },
+    {
+        "id": "14e214a418105b3a",
+        "type": "ui_gauge",
+        "z": "ed9446b91438a775",
+        "name": "Lluvia actual",
+        "group": "",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "gauge",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": 10,
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1430,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "bc544ba547c5d77c",
+        "type": "mysql",
+        "z": "ed9446b91438a775",
+        "mydb": "c96f3ce7dcd10095",
+        "name": "calidadaire",
+        "x": 870,
+        "y": 320,
+        "wires": [
+            [
+                "b574685651183f60"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "57292688719632f4",
+        "type": "mysql",
+        "z": "ed9446b91438a775",
+        "mydb": "c96f3ce7dcd10095",
+        "name": "calidadaire",
+        "x": 870,
+        "y": 440,
+        "wires": [
+            [
+                "53feaf37b6b30fc1"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "bd87d9831ee7b5c5",
+        "type": "mysql",
+        "z": "ed9446b91438a775",
+        "mydb": "c96f3ce7dcd10095",
+        "name": "calidadaire",
+        "x": 870,
+        "y": 540,
+        "wires": [
+            [
+                "20b5620a2a91c6cb"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "c8289243eb71fa64",
+        "type": "mysql",
+        "z": "ed9446b91438a775",
+        "mydb": "c96f3ce7dcd10095",
+        "name": "calidadaire",
+        "x": 870,
+        "y": 660,
+        "wires": [
+            [
+                "6d287af4fd6e5a91"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "4cbeeb502eaab53d",
+        "type": "inject",
+        "z": "ed9446b91438a775",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 220,
+        "y": 320,
+        "wires": [
+            [
+                "06f12dbd3a653e28"
+            ]
+        ]
+    },
+    {
+        "id": "26d676a4467bd895",
+        "type": "inject",
+        "z": "ed9446b91438a775",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 220,
+        "y": 440,
+        "wires": [
+            [
+                "a3912359442c48e8"
+            ]
+        ]
+    },
+    {
+        "id": "a4cb0f5c4eadc656",
+        "type": "inject",
+        "z": "ed9446b91438a775",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 220,
+        "y": 540,
+        "wires": [
+            [
+                "df366cc146c6bf28"
+            ]
+        ]
+    },
+    {
+        "id": "33a186252092418f",
+        "type": "inject",
+        "z": "ed9446b91438a775",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 220,
+        "y": 660,
+        "wires": [
+            [
+                "a0d97ece5f22c42a"
+            ]
+        ]
+    },
+    {
+        "id": "87c38ed74e93da4a",
+        "type": "inject",
+        "z": "24b3d336516ac134",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 240,
+        "wires": [
+            [
+                "8a19e4169b1f7f3c"
+            ]
+        ]
+    },
+    {
+        "id": "8a19e4169b1f7f3c",
+        "type": "function",
+        "z": "24b3d336516ac134",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT humedad  FROM lecturahumedad ORDER BY id DESC LIMIT 1;\";\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "\n",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 240,
+        "wires": [
+            [
+                "73da5da13cc76fd9"
+            ]
+        ]
+    },
+    {
+        "id": "73da5da13cc76fd9",
+        "type": "mysql",
+        "z": "24b3d336516ac134",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 240,
+        "wires": [
+            [
+                "502950abeb0ada93"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "502950abeb0ada93",
+        "type": "function",
+        "z": "24b3d336516ac134",
+        "name": "Extraer dato de humedad",
+        "func": "\n\nmsg.payload = msg.payload[0].humedad;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1210,
+        "y": 240,
+        "wires": [
+            [
+                "4ee836f08e5c0938"
+            ]
+        ]
+    },
+    {
+        "id": "4ee836f08e5c0938",
+        "type": "ui_gauge",
+        "z": "24b3d336516ac134",
+        "name": "Humedad actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Humedad",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#1d2f53",
+            "#67a6c1",
+            "#2333af"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1500,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "761a7f7d8a8af673",
+        "type": "function",
+        "z": "24b3d336516ac134",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT temperatura  FROM lecturatemperatura ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 360,
+        "wires": [
+            [
+                "45396f4bd7db6d10"
+            ]
+        ]
+    },
+    {
+        "id": "e9305af210e126b5",
+        "type": "function",
+        "z": "24b3d336516ac134",
+        "name": "Extraer dato de temperatura",
+        "func": "\n\nmsg.payload = msg.payload[0].temperatura;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1220,
+        "y": 360,
+        "wires": [
+            [
+                "87e26099e4b19585"
+            ]
+        ]
+    },
+    {
+        "id": "ad815e64c60484d5",
+        "type": "function",
+        "z": "24b3d336516ac134",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT coppm  FROM lecturaco ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 480,
+        "wires": [
+            [
+                "9aba0b0cd566ea71"
+            ]
+        ]
+    },
+    {
+        "id": "1f3e201f7d5b831b",
+        "type": "function",
+        "z": "24b3d336516ac134",
+        "name": "Extraer dato de CO",
+        "func": "\n\nmsg.payload = msg.payload[0].coppm;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1190,
+        "y": 480,
+        "wires": [
+            [
+                "5ccf946731f1f16e"
+            ]
+        ]
+    },
+    {
+        "id": "9b088dfee97f5c2c",
+        "type": "function",
+        "z": "24b3d336516ac134",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT co2ppm  FROM lecturaco2 ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 580,
+        "wires": [
+            [
+                "93984f0b073f01dc"
+            ]
+        ]
+    },
+    {
+        "id": "b38428ebba99b618",
+        "type": "function",
+        "z": "24b3d336516ac134",
+        "name": "Extraer dato de CO2",
+        "func": "\n\nmsg.payload = msg.payload[0].co2ppm;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1200,
+        "y": 580,
+        "wires": [
+            [
+                "757943217d52e882"
+            ]
+        ]
+    },
+    {
+        "id": "8ef39d5413de9ef9",
+        "type": "function",
+        "z": "24b3d336516ac134",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT lluvia  FROM lecturalluvia ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 700,
+        "wires": [
+            [
+                "2f6e5236c524b444"
+            ]
+        ]
+    },
+    {
+        "id": "de19008f2d5e112b",
+        "type": "function",
+        "z": "24b3d336516ac134",
+        "name": "Extraer dato de lluvia",
+        "func": "\n\nmsg.payload = msg.payload[0].lluvia;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1200,
+        "y": 700,
+        "wires": [
+            [
+                "21c3c0c8057a7882"
+            ]
+        ]
+    },
+    {
+        "id": "45396f4bd7db6d10",
+        "type": "mysql",
+        "z": "24b3d336516ac134",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 360,
+        "wires": [
+            [
+                "e9305af210e126b5"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "9aba0b0cd566ea71",
+        "type": "mysql",
+        "z": "24b3d336516ac134",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retrodraft2",
+        "x": 930,
+        "y": 480,
+        "wires": [
+            [
+                "1f3e201f7d5b831b"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "93984f0b073f01dc",
+        "type": "mysql",
+        "z": "24b3d336516ac134",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 580,
+        "wires": [
+            [
+                "b38428ebba99b618"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "2f6e5236c524b444",
+        "type": "mysql",
+        "z": "24b3d336516ac134",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 700,
+        "wires": [
+            [
+                "de19008f2d5e112b"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "509046be9be1b6c7",
+        "type": "inject",
+        "z": "24b3d336516ac134",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 360,
+        "wires": [
+            [
+                "761a7f7d8a8af673"
+            ]
+        ]
+    },
+    {
+        "id": "3cc7f7933646c265",
+        "type": "inject",
+        "z": "24b3d336516ac134",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 480,
+        "wires": [
+            [
+                "ad815e64c60484d5"
+            ]
+        ]
+    },
+    {
+        "id": "59fea57ebeae4993",
+        "type": "inject",
+        "z": "24b3d336516ac134",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 580,
+        "wires": [
+            [
+                "9b088dfee97f5c2c"
+            ]
+        ]
+    },
+    {
+        "id": "c885242e2b35dea2",
+        "type": "inject",
+        "z": "24b3d336516ac134",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 700,
+        "wires": [
+            [
+                "8ef39d5413de9ef9"
+            ]
+        ]
+    },
+    {
+        "id": "87e26099e4b19585",
+        "type": "ui_gauge",
+        "z": "24b3d336516ac134",
+        "name": "Temperatura actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Temperatura",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "40",
+        "colors": [
+            "#fff71a",
+            "#ffbb00",
+            "#af2323"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1510,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "5ccf946731f1f16e",
+        "type": "ui_gauge",
+        "z": "24b3d336516ac134",
+        "name": "CO actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "CO",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "8.5",
+        "colors": [
+            "#adadad",
+            "#63625f",
+            "#0d0c0c"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1440,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "757943217d52e882",
+        "type": "ui_gauge",
+        "z": "24b3d336516ac134",
+        "name": "CO2 actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "CO2",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "8.5",
+        "colors": [
+            "#c8acb8",
+            "#ea71d4",
+            "#8f0083"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1470,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "21c3c0c8057a7882",
+        "type": "ui_gauge",
+        "z": "24b3d336516ac134",
+        "name": "Lluvia actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Lluvia",
+        "label": "",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1",
+        "colors": [
+            "#467ed2",
+            "#7599e1",
+            "#0a1a94"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1470,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "fad11333c79a0e0c",
+        "type": "inject",
+        "z": "d0228c14018ef9d9",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 240,
+        "wires": [
+            [
+                "eb90e8ae845af597"
+            ]
+        ]
+    },
+    {
+        "id": "eb90e8ae845af597",
+        "type": "function",
+        "z": "d0228c14018ef9d9",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT humedad  FROM lecturahumedad ORDER BY id DESC LIMIT 1;\";\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "\n",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 240,
+        "wires": [
+            [
+                "638d534bab070cfa"
+            ]
+        ]
+    },
+    {
+        "id": "638d534bab070cfa",
+        "type": "mysql",
+        "z": "d0228c14018ef9d9",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 240,
+        "wires": [
+            [
+                "fcf37258cfd303e2"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "fcf37258cfd303e2",
+        "type": "function",
+        "z": "d0228c14018ef9d9",
+        "name": "Extraer dato de humedad",
+        "func": "\n\nmsg.payload = msg.payload[0].humedad;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1210,
+        "y": 240,
+        "wires": [
+            [
+                "4a270ddf83994501"
+            ]
+        ]
+    },
+    {
+        "id": "4a270ddf83994501",
+        "type": "ui_gauge",
+        "z": "d0228c14018ef9d9",
+        "name": "Humedad actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Humedad",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#1d2f53",
+            "#67a6c1",
+            "#2333af"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1500,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "8adc01462319f936",
+        "type": "function",
+        "z": "d0228c14018ef9d9",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT temperatura  FROM lecturatemperatura ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 360,
+        "wires": [
+            [
+                "a7da54d302de35b8"
+            ]
+        ]
+    },
+    {
+        "id": "e632306235989e44",
+        "type": "function",
+        "z": "d0228c14018ef9d9",
+        "name": "Extraer dato de temperatura",
+        "func": "\n\nmsg.payload = msg.payload[0].temperatura;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1220,
+        "y": 360,
+        "wires": [
+            [
+                "57e8ece7bbb37a31"
+            ]
+        ]
+    },
+    {
+        "id": "c8264f9f3a4007c5",
+        "type": "function",
+        "z": "d0228c14018ef9d9",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT coppm  FROM lecturaco ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 480,
+        "wires": [
+            [
+                "9caa850ac51837f4"
+            ]
+        ]
+    },
+    {
+        "id": "1426237b8e349188",
+        "type": "function",
+        "z": "d0228c14018ef9d9",
+        "name": "Extraer dato de CO",
+        "func": "\n\nmsg.payload = msg.payload[0].coppm;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1190,
+        "y": 480,
+        "wires": [
+            [
+                "834a25c8a66102cb"
+            ]
+        ]
+    },
+    {
+        "id": "f50efe1663b91e32",
+        "type": "function",
+        "z": "d0228c14018ef9d9",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT co2ppm  FROM lecturaco2 ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 580,
+        "wires": [
+            [
+                "50527ea0632992aa"
+            ]
+        ]
+    },
+    {
+        "id": "922f628ceb4ab8e8",
+        "type": "function",
+        "z": "d0228c14018ef9d9",
+        "name": "Extraer dato de CO2",
+        "func": "\n\nmsg.payload = msg.payload[0].co2ppm;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1200,
+        "y": 580,
+        "wires": [
+            [
+                "b4865cbaaa98d347"
+            ]
+        ]
+    },
+    {
+        "id": "e91c9e0d996ec3e0",
+        "type": "function",
+        "z": "d0228c14018ef9d9",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT lluvia  FROM lecturalluvia ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 700,
+        "wires": [
+            [
+                "71ada92f1d0adb34"
+            ]
+        ]
+    },
+    {
+        "id": "eb9ea55ff6089843",
+        "type": "function",
+        "z": "d0228c14018ef9d9",
+        "name": "Extraer dato de lluvia",
+        "func": "\n\nmsg.payload = msg.payload[0].lluvia;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1200,
+        "y": 700,
+        "wires": [
+            [
+                "14cb360e7664b543"
+            ]
+        ]
+    },
+    {
+        "id": "a7da54d302de35b8",
+        "type": "mysql",
+        "z": "d0228c14018ef9d9",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 360,
+        "wires": [
+            [
+                "e632306235989e44"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "9caa850ac51837f4",
+        "type": "mysql",
+        "z": "d0228c14018ef9d9",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retrodraft2",
+        "x": 930,
+        "y": 480,
+        "wires": [
+            [
+                "1426237b8e349188"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "50527ea0632992aa",
+        "type": "mysql",
+        "z": "d0228c14018ef9d9",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 580,
+        "wires": [
+            [
+                "922f628ceb4ab8e8"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "71ada92f1d0adb34",
+        "type": "mysql",
+        "z": "d0228c14018ef9d9",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 700,
+        "wires": [
+            [
+                "eb9ea55ff6089843"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "5f823766c65d621a",
+        "type": "inject",
+        "z": "d0228c14018ef9d9",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 360,
+        "wires": [
+            [
+                "8adc01462319f936"
+            ]
+        ]
+    },
+    {
+        "id": "c0b8e15821962e4b",
+        "type": "inject",
+        "z": "d0228c14018ef9d9",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 480,
+        "wires": [
+            [
+                "c8264f9f3a4007c5"
+            ]
+        ]
+    },
+    {
+        "id": "143c3471d2d26363",
+        "type": "inject",
+        "z": "d0228c14018ef9d9",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 580,
+        "wires": [
+            [
+                "f50efe1663b91e32"
+            ]
+        ]
+    },
+    {
+        "id": "4f2cc3cc48612808",
+        "type": "inject",
+        "z": "d0228c14018ef9d9",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 700,
+        "wires": [
+            [
+                "e91c9e0d996ec3e0"
+            ]
+        ]
+    },
+    {
+        "id": "57e8ece7bbb37a31",
+        "type": "ui_gauge",
+        "z": "d0228c14018ef9d9",
+        "name": "Temperatura actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Temperatura",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "40",
+        "colors": [
+            "#fff71a",
+            "#ffbb00",
+            "#af2323"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1510,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "834a25c8a66102cb",
+        "type": "ui_gauge",
+        "z": "d0228c14018ef9d9",
+        "name": "CO actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "CO",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "8.5",
+        "colors": [
+            "#adadad",
+            "#63625f",
+            "#0d0c0c"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1440,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "b4865cbaaa98d347",
+        "type": "ui_gauge",
+        "z": "d0228c14018ef9d9",
+        "name": "CO2 actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "CO2",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "8.5",
+        "colors": [
+            "#c8acb8",
+            "#ea71d4",
+            "#8f0083"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1470,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "14cb360e7664b543",
+        "type": "ui_gauge",
+        "z": "d0228c14018ef9d9",
+        "name": "Lluvia actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Lluvia",
+        "label": "",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1",
+        "colors": [
+            "#467ed2",
+            "#7599e1",
+            "#0a1a94"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1470,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "119beca91a930150",
+        "type": "inject",
+        "z": "58a2d02636539861",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 240,
+        "wires": [
+            [
+                "650578b19b4b9810"
+            ]
+        ]
+    },
+    {
+        "id": "650578b19b4b9810",
+        "type": "function",
+        "z": "58a2d02636539861",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT humedad  FROM lecturahumedad ORDER BY id DESC LIMIT 1;\";\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "\n",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 240,
+        "wires": [
+            [
+                "b90be909a331a603"
+            ]
+        ]
+    },
+    {
+        "id": "b90be909a331a603",
+        "type": "mysql",
+        "z": "58a2d02636539861",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 240,
+        "wires": [
+            [
+                "a8256dafb0e969dc"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "a8256dafb0e969dc",
+        "type": "function",
+        "z": "58a2d02636539861",
+        "name": "Extraer dato de humedad",
+        "func": "\n\nmsg.payload = msg.payload[0].humedad;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1210,
+        "y": 240,
+        "wires": [
+            [
+                "0e4182f74edac589"
+            ]
+        ]
+    },
+    {
+        "id": "0e4182f74edac589",
+        "type": "ui_gauge",
+        "z": "58a2d02636539861",
+        "name": "Humedad actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Humedad",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#1d2f53",
+            "#67a6c1",
+            "#2333af"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1500,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "a063083d2c263ea2",
+        "type": "function",
+        "z": "58a2d02636539861",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT temperatura  FROM lecturatemperatura ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 360,
+        "wires": [
+            [
+                "074a491d88308bb1"
+            ]
+        ]
+    },
+    {
+        "id": "741969123e112dba",
+        "type": "function",
+        "z": "58a2d02636539861",
+        "name": "Extraer dato de temperatura",
+        "func": "\n\nmsg.payload = msg.payload[0].temperatura;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1220,
+        "y": 360,
+        "wires": [
+            [
+                "ebe55dc575f82734"
+            ]
+        ]
+    },
+    {
+        "id": "0928381bb86fe2c0",
+        "type": "function",
+        "z": "58a2d02636539861",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT coppm  FROM lecturaco ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 480,
+        "wires": [
+            [
+                "9681877a0cea735c"
+            ]
+        ]
+    },
+    {
+        "id": "21f99b6e241f2be8",
+        "type": "function",
+        "z": "58a2d02636539861",
+        "name": "Extraer dato de CO",
+        "func": "\n\nmsg.payload = msg.payload[0].coppm;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1190,
+        "y": 480,
+        "wires": [
+            [
+                "ba7de8016e1f474d"
+            ]
+        ]
+    },
+    {
+        "id": "8f7d74858fb7a08c",
+        "type": "function",
+        "z": "58a2d02636539861",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT co2ppm  FROM lecturaco2 ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 580,
+        "wires": [
+            [
+                "1a580f2d6df6d1e7"
+            ]
+        ]
+    },
+    {
+        "id": "c95eda174233904a",
+        "type": "function",
+        "z": "58a2d02636539861",
+        "name": "Extraer dato de CO2",
+        "func": "\n\nmsg.payload = msg.payload[0].co2ppm;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1200,
+        "y": 580,
+        "wires": [
+            [
+                "16f17684c8689a20"
+            ]
+        ]
+    },
+    {
+        "id": "5092b744b735cf74",
+        "type": "function",
+        "z": "58a2d02636539861",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT lluvia  FROM lecturalluvia ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 700,
+        "wires": [
+            [
+                "0ac117b9871fcf39"
+            ]
+        ]
+    },
+    {
+        "id": "306c871d2f2a8fc7",
+        "type": "function",
+        "z": "58a2d02636539861",
+        "name": "Extraer dato de lluvia",
+        "func": "\n\nmsg.payload = msg.payload[0].lluvia;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1200,
+        "y": 700,
+        "wires": [
+            [
+                "d78e8506d0d0ecef"
+            ]
+        ]
+    },
+    {
+        "id": "074a491d88308bb1",
+        "type": "mysql",
+        "z": "58a2d02636539861",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 360,
+        "wires": [
+            [
+                "741969123e112dba"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "9681877a0cea735c",
+        "type": "mysql",
+        "z": "58a2d02636539861",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retrodraft2",
+        "x": 930,
+        "y": 480,
+        "wires": [
+            [
+                "21f99b6e241f2be8"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "1a580f2d6df6d1e7",
+        "type": "mysql",
+        "z": "58a2d02636539861",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 580,
+        "wires": [
+            [
+                "c95eda174233904a"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "0ac117b9871fcf39",
+        "type": "mysql",
+        "z": "58a2d02636539861",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 700,
+        "wires": [
+            [
+                "306c871d2f2a8fc7"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "47fee53282a792d2",
+        "type": "inject",
+        "z": "58a2d02636539861",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 360,
+        "wires": [
+            [
+                "a063083d2c263ea2"
+            ]
+        ]
+    },
+    {
+        "id": "75446b7b71a57958",
+        "type": "inject",
+        "z": "58a2d02636539861",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 480,
+        "wires": [
+            [
+                "0928381bb86fe2c0"
+            ]
+        ]
+    },
+    {
+        "id": "3c7de8593954e3c0",
+        "type": "inject",
+        "z": "58a2d02636539861",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 580,
+        "wires": [
+            [
+                "8f7d74858fb7a08c"
+            ]
+        ]
+    },
+    {
+        "id": "e99f7746a96e13c3",
+        "type": "inject",
+        "z": "58a2d02636539861",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 700,
+        "wires": [
+            [
+                "5092b744b735cf74"
+            ]
+        ]
+    },
+    {
+        "id": "ebe55dc575f82734",
+        "type": "ui_gauge",
+        "z": "58a2d02636539861",
+        "name": "Temperatura actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Temperatura",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "40",
+        "colors": [
+            "#fff71a",
+            "#ffbb00",
+            "#af2323"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1510,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "ba7de8016e1f474d",
+        "type": "ui_gauge",
+        "z": "58a2d02636539861",
+        "name": "CO actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "CO",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "8.5",
+        "colors": [
+            "#adadad",
+            "#63625f",
+            "#0d0c0c"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1440,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "16f17684c8689a20",
+        "type": "ui_gauge",
+        "z": "58a2d02636539861",
+        "name": "CO2 actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "CO2",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "8.5",
+        "colors": [
+            "#c8acb8",
+            "#ea71d4",
+            "#8f0083"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1470,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "d78e8506d0d0ecef",
+        "type": "ui_gauge",
+        "z": "58a2d02636539861",
+        "name": "Lluvia actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Lluvia",
+        "label": "",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1",
+        "colors": [
+            "#467ed2",
+            "#7599e1",
+            "#0a1a94"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1470,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "65bd3f1fcdd56210",
+        "type": "inject",
+        "z": "158f609091a79fda",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 240,
+        "wires": [
+            [
+                "cb2241d694679563"
+            ]
+        ]
+    },
+    {
+        "id": "cb2241d694679563",
+        "type": "function",
+        "z": "158f609091a79fda",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT humedad  FROM lecturahumedad ORDER BY id DESC LIMIT 1;\";\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "\n",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 240,
+        "wires": [
+            [
+                "00a5ad2c606aeb29"
+            ]
+        ]
+    },
+    {
+        "id": "00a5ad2c606aeb29",
+        "type": "mysql",
+        "z": "158f609091a79fda",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 240,
+        "wires": [
+            [
+                "f0ade357bd004f60"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "f0ade357bd004f60",
+        "type": "function",
+        "z": "158f609091a79fda",
+        "name": "Extraer dato de humedad",
+        "func": "\n\nmsg.payload = msg.payload[0].humedad;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1210,
+        "y": 240,
+        "wires": [
+            [
+                "fe25a41a29ff1886"
+            ]
+        ]
+    },
+    {
+        "id": "fe25a41a29ff1886",
+        "type": "ui_gauge",
+        "z": "158f609091a79fda",
+        "name": "Humedad actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Humedad",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#1d2f53",
+            "#67a6c1",
+            "#2333af"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1500,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "742901e5e64659ce",
+        "type": "function",
+        "z": "158f609091a79fda",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT temperatura  FROM lecturatemperatura ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 360,
+        "wires": [
+            [
+                "e8ea25257b9340f3"
+            ]
+        ]
+    },
+    {
+        "id": "8a6e9c224c5eb765",
+        "type": "function",
+        "z": "158f609091a79fda",
+        "name": "Extraer dato de temperatura",
+        "func": "\n\nmsg.payload = msg.payload[0].temperatura;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1220,
+        "y": 360,
+        "wires": [
+            [
+                "9a7355edeb804007"
+            ]
+        ]
+    },
+    {
+        "id": "45380c57b1bb907f",
+        "type": "function",
+        "z": "158f609091a79fda",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT coppm  FROM lecturaco ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 480,
+        "wires": [
+            [
+                "1d61b5e55875b23a"
+            ]
+        ]
+    },
+    {
+        "id": "fb544aa78bdb6934",
+        "type": "function",
+        "z": "158f609091a79fda",
+        "name": "Extraer dato de CO",
+        "func": "\n\nmsg.payload = msg.payload[0].coppm;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1190,
+        "y": 480,
+        "wires": [
+            [
+                "8845ad97944821b3"
+            ]
+        ]
+    },
+    {
+        "id": "facdf186fc3ad840",
+        "type": "function",
+        "z": "158f609091a79fda",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT co2ppm  FROM lecturaco2 ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 580,
+        "wires": [
+            [
+                "53c6309aad5adb73"
+            ]
+        ]
+    },
+    {
+        "id": "51f49a28fd7c8d73",
+        "type": "function",
+        "z": "158f609091a79fda",
+        "name": "Extraer dato de CO2",
+        "func": "\n\nmsg.payload = msg.payload[0].co2ppm;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1200,
+        "y": 580,
+        "wires": [
+            [
+                "dc314c5e93c4ebb9"
+            ]
+        ]
+    },
+    {
+        "id": "50d0b54ca71bac49",
+        "type": "function",
+        "z": "158f609091a79fda",
+        "name": "Seleccionar entrada más reciente de la BD",
+        "func": "msg.topic = \"SELECT lluvia  FROM lecturalluvia ORDER BY id DESC LIMIT 1;\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 700,
+        "wires": [
+            [
+                "98d700b507b08534"
+            ]
+        ]
+    },
+    {
+        "id": "91b0e2624b0b62ea",
+        "type": "function",
+        "z": "158f609091a79fda",
+        "name": "Extraer dato de lluvia",
+        "func": "\n\nmsg.payload = msg.payload[0].lluvia;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1200,
+        "y": 700,
+        "wires": [
+            [
+                "6d799474e7d541ea"
+            ]
+        ]
+    },
+    {
+        "id": "e8ea25257b9340f3",
+        "type": "mysql",
+        "z": "158f609091a79fda",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 360,
+        "wires": [
+            [
+                "8a6e9c224c5eb765"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "1d61b5e55875b23a",
+        "type": "mysql",
+        "z": "158f609091a79fda",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retrodraft2",
+        "x": 930,
+        "y": 480,
+        "wires": [
+            [
+                "fb544aa78bdb6934"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "53c6309aad5adb73",
+        "type": "mysql",
+        "z": "158f609091a79fda",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 580,
+        "wires": [
+            [
+                "51f49a28fd7c8d73"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "98d700b507b08534",
+        "type": "mysql",
+        "z": "158f609091a79fda",
+        "mydb": "17a6716e9edf92e5",
+        "name": "retodraft2",
+        "x": 920,
+        "y": 700,
+        "wires": [
+            [
+                "91b0e2624b0b62ea"
+            ]
+        ],
+        "info": "\"id\": \"2f5cef287069b964\",\r\n        \"type\": \"function\",\r\n        \"z\": \"1ad379a6ba9b33ea\",\r\n        \"name\": \"Query para insertar datos de humedad en la base de datos\",\r\n        \"func\": \"let mac = \\\"50:02:91:C2:D9:81\\\"\\nlet d = new Date();\\n\\nvar hours = d.getHours() \\nvar minutes = d.getMinutes() \\nvar seconds = d.getSeconds() \\n\\nlet hora = hours + \\\":\\\" + minutes + \\\":\\\" + seconds;\\nlet humedad = msg.payload;\\n\\nmsg.payload = [d, hora,humedad, mac];\\nmsg.topic=\\\"INSERT INTO lecturahumedad (fecha, hora, humedad, macAddress) VALUES(?,?,?,?);\\\"\\nreturn msg;\",\r\n        \"outputs\": 1,\r\n        \"noerr\": 0,\r\n        \"initialize\": \"\",\r\n        \"finalize\": \"\",\r\n        \"libs\": [],\r\n        \"x\": 760,\r\n        \"y\": 300,\r\n        \"wires\": [\r\n            [\r\n                \"4966ab9e73bad09a\"\r\n            ]\r\n        ]"
+    },
+    {
+        "id": "0343baab39f52bcb",
+        "type": "inject",
+        "z": "158f609091a79fda",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 360,
+        "wires": [
+            [
+                "742901e5e64659ce"
+            ]
+        ]
+    },
+    {
+        "id": "19965903a584fbf5",
+        "type": "inject",
+        "z": "158f609091a79fda",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 480,
+        "wires": [
+            [
+                "45380c57b1bb907f"
+            ]
+        ]
+    },
+    {
+        "id": "a35151d5698bce0b",
+        "type": "inject",
+        "z": "158f609091a79fda",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 580,
+        "wires": [
+            [
+                "facdf186fc3ad840"
+            ]
+        ]
+    },
+    {
+        "id": "18f6503936a6d31f",
+        "type": "inject",
+        "z": "158f609091a79fda",
+        "name": "Cada 20 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "20",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 280,
+        "y": 700,
+        "wires": [
+            [
+                "50d0b54ca71bac49"
+            ]
+        ]
+    },
+    {
+        "id": "9a7355edeb804007",
+        "type": "ui_gauge",
+        "z": "158f609091a79fda",
+        "name": "Temperatura actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Temperatura",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "40",
+        "colors": [
+            "#fff71a",
+            "#ffbb00",
+            "#af2323"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1510,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "8845ad97944821b3",
+        "type": "ui_gauge",
+        "z": "158f609091a79fda",
+        "name": "CO actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "CO",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "8.5",
+        "colors": [
+            "#adadad",
+            "#63625f",
+            "#0d0c0c"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1440,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "dc314c5e93c4ebb9",
+        "type": "ui_gauge",
+        "z": "158f609091a79fda",
+        "name": "CO2 actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "CO2",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "8.5",
+        "colors": [
+            "#c8acb8",
+            "#ea71d4",
+            "#8f0083"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1470,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "6d799474e7d541ea",
+        "type": "ui_gauge",
+        "z": "158f609091a79fda",
+        "name": "Lluvia actual",
+        "group": "ba7e746fa4dcbe77",
+        "order": 0,
+        "width": "6",
+        "height": "6",
+        "gtype": "gage",
+        "title": "Lluvia",
+        "label": "",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1",
+        "colors": [
+            "#467ed2",
+            "#7599e1",
+            "#0a1a94"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 1470,
+        "y": 700,
+        "wires": []
+    },
+    {
+        "id": "492058510737c070",
+        "type": "inject",
+        "z": "8644ef86eac454ef",
+        "name": "cada 30 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "30",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 240,
+        "wires": [
+            [
+                "d4481fe7371f7946"
+            ]
+        ]
+    },
+    {
+        "id": "d4481fe7371f7946",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 7",
+        "func": "msg.payload = [];\nmsg.topic = \"SELECT * FROM lecturatemperatura WHERE hora >= \\\"18:26:55\\\" AND macAddress = \\\"48:3F:DA:44:08:FA\\\" ORDER BY hora ASC LIMIT 50\";\nreturn msg;\n//ORDER BY id DESC LIMIT 20\n//\"SELECT temperatura FROM lecturatemperatura ORDER BY id ASC LIMIT 1;\";",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 240,
+        "wires": [
+            [
+                "3be650b175a37151",
+                "97252b334cb05a8c"
+            ]
+        ]
+    },
+    {
+        "id": "3be650b175a37151",
+        "type": "mysql",
+        "z": "8644ef86eac454ef",
+        "mydb": "49b939a689fbc088",
+        "name": "",
+        "x": 530,
+        "y": 240,
+        "wires": [
+            [
+                "267eebb0fa666ef8"
+            ]
+        ]
+    },
+    {
+        "id": "d00c40267834d622",
+        "type": "ui_gauge",
+        "z": "8644ef86eac454ef",
+        "name": "",
+        "group": "81a7725fde2222c0",
+        "order": 1,
+        "width": "10",
+        "height": "8",
+        "gtype": "gage",
+        "title": "Temperatura",
+        "label": "°C",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "40",
+        "colors": [
+            "#d3df2a",
+            "#eab21a",
+            "#872222"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 910,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "267eebb0fa666ef8",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 8",
+        "func": "/*for (let i = 0; i < msg.payload.lengh; i++){\n    const element = msg.payload[i];\n}*/\n\nlet element = msg.payload[0];\nmsg.payload = element.temperatura;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 240,
+        "wires": [
+            [
+                "d00c40267834d622"
+            ]
+        ]
+    },
+    {
+        "id": "7fe3bf6c9c8fba9e",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 9",
+        "func": "let chart_data = [{\n    \"series\": [\"Temperatura\"],\n    \"data\": [[]],\n    \"labels\": [\"Equipo_2\"]\n}]\n\nfor (let i = 0; i < msg.payload.length; i++) {\n    let new_data = {};\n    const element = msg.payload[i];\n\n    let fecha_date = element.fecha;\n    let hora_string = element.hora;\n\n    let year = fecha_date.getFullYear();\n    let month = fecha_date.getMonth();\n    let date = fecha_date.getDate();\n\n    let hora = parseInt(hora_string.split(\":\")[0]);\n    let min = parseInt(hora_string.split(\":\")[1]);\n    let sec = parseInt(hora_string.split(\":\")[2]);\n\n    let dataDay = new Date(year, month, date, hora, min, sec, 0);\n\n    let temperatura = element.temperatura;\n    new_data.x = dataDay;\n    new_data.y = temperatura;\n    chart_data[0].data[0].push(new_data);\n}\n\nmsg.payload = chart_data;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 720,
+        "y": 320,
+        "wires": [
+            [
+                "1305f8c575a306f8"
+            ]
+        ]
+    },
+    {
+        "id": "1305f8c575a306f8",
+        "type": "ui_chart",
+        "z": "8644ef86eac454ef",
+        "name": "",
+        "group": "5da09075f32d734b",
+        "order": 14,
+        "width": "12",
+        "height": "12",
+        "label": "Temperatura",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "19",
+        "ymax": "21",
+        "removeOlder": "0",
+        "removeOlderPoints": "500",
+        "removeOlderUnit": "1",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#9c7ec9",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 910,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "97252b334cb05a8c",
+        "type": "mysql",
+        "z": "8644ef86eac454ef",
+        "mydb": "49b939a689fbc088",
+        "name": "",
+        "x": 530,
+        "y": 320,
+        "wires": [
+            [
+                "7fe3bf6c9c8fba9e"
+            ]
+        ]
+    },
+    {
+        "id": "52d67379bf7c4639",
+        "type": "inject",
+        "z": "8644ef86eac454ef",
+        "name": "cada 30 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "30",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 420,
+        "wires": [
+            [
+                "7b55c16d12b6f355"
+            ]
+        ]
+    },
+    {
+        "id": "7b55c16d12b6f355",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 10",
+        "func": "msg.payload = [];\nmsg.topic = \"SELECT * FROM lecturahumedad ORDER BY hora DESC LIMIT 30;\";\nreturn msg;\n//ORDER BY id DESC LIMIT 20\n//\"SELECT temperatura FROM lecturatemperatura ORDER BY id ASC LIMIT 1;\";",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 420,
+        "wires": [
+            [
+                "ee73f4bc1a67a066",
+                "5abc01a75b353dfb"
+            ]
+        ]
+    },
+    {
+        "id": "ee73f4bc1a67a066",
+        "type": "mysql",
+        "z": "8644ef86eac454ef",
+        "mydb": "49b939a689fbc088",
+        "name": "",
+        "x": 510,
+        "y": 420,
+        "wires": [
+            [
+                "81c521e27ca329a8"
+            ]
+        ]
+    },
+    {
+        "id": "0263f896996d6e84",
+        "type": "ui_gauge",
+        "z": "8644ef86eac454ef",
+        "name": "",
+        "group": "81a7725fde2222c0",
+        "order": 2,
+        "width": "10",
+        "height": "8",
+        "gtype": "gage",
+        "title": "Humedad",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#d056d2",
+            "#b80f99",
+            "#7c31d8"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 880,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "81c521e27ca329a8",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 11",
+        "func": "/*for (let i = 0; i < msg.payload.lengh; i++){\n    const element = msg.payload[i];\n}*/\n\nlet element = msg.payload[0];\nmsg.payload = element.humedad;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 420,
+        "wires": [
+            [
+                "0263f896996d6e84"
+            ]
+        ]
+    },
+    {
+        "id": "aa736b8f33c86abb",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 12",
+        "func": "let chart_data = [{\n    \"series\": [\"Humedad\"],\n    \"data\": [[]],\n    \"labels\": [\"Equipo_2\"]\n}]\n\nfor (let i = 0; i < msg.payload.length; i++) {\n    let new_data = {};\n    const element = msg.payload[i];\n\n    let fecha_date = element.fecha;\n    let hora_string = element.hora;\n\n    let year = fecha_date.getFullYear();\n    let month = fecha_date.getMonth();\n    let date = fecha_date.getDate();\n\n    let hora = parseInt(hora_string.split(\":\")[0]);\n    let min = parseInt(hora_string.split(\":\")[1]);\n    let sec = parseInt(hora_string.split(\":\")[2]);\n\n    let dataDay = new Date(year, month, date, hora, min, sec, 0);\n\n    let humedad = element.humedad;\n    new_data.x = dataDay;\n    new_data.y = humedad;\n    chart_data[0].data[0].push(new_data);\n}\n\nmsg.payload = chart_data;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 500,
+        "wires": [
+            [
+                "ecf47b325d67a27a"
+            ]
+        ]
+    },
+    {
+        "id": "ecf47b325d67a27a",
+        "type": "ui_chart",
+        "z": "8644ef86eac454ef",
+        "name": "",
+        "group": "5da09075f32d734b",
+        "order": 14,
+        "width": "12",
+        "height": "12",
+        "label": "Historial",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "0",
+        "removeOlderPoints": "20",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 880,
+        "y": 500,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5abc01a75b353dfb",
+        "type": "mysql",
+        "z": "8644ef86eac454ef",
+        "mydb": "49b939a689fbc088",
+        "name": "",
+        "x": 510,
+        "y": 500,
+        "wires": [
+            [
+                "aa736b8f33c86abb"
+            ]
+        ]
+    },
+    {
+        "id": "4e5fb9a56eacd167",
+        "type": "inject",
+        "z": "8644ef86eac454ef",
+        "name": "cada 30 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "30",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 600,
+        "wires": [
+            [
+                "a5c298cd4abf15d7"
+            ]
+        ]
+    },
+    {
+        "id": "a5c298cd4abf15d7",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 13",
+        "func": "msg.payload = [];\nmsg.topic = \"SELECT * FROM lecturaco ORDER BY hora DESC LIMIT 30;\";\nreturn msg;\n//ORDER BY id DESC LIMIT 20\n//\"SELECT temperatura FROM lecturatemperatura ORDER BY id ASC LIMIT 1;\";",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 600,
+        "wires": [
+            [
+                "9be166b0c969aab6",
+                "93bd0178f22e755b"
+            ]
+        ]
+    },
+    {
+        "id": "9be166b0c969aab6",
+        "type": "mysql",
+        "z": "8644ef86eac454ef",
+        "mydb": "49b939a689fbc088",
+        "name": "",
+        "x": 510,
+        "y": 600,
+        "wires": [
+            [
+                "cffc70a3f97f7136"
+            ]
+        ]
+    },
+    {
+        "id": "0b88139020978faa",
+        "type": "ui_gauge",
+        "z": "8644ef86eac454ef",
+        "name": "",
+        "group": "bc99911163a35e26",
+        "order": 1,
+        "width": "10",
+        "height": "8",
+        "gtype": "gage",
+        "title": "COppm",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "35",
+        "colors": [
+            "#6e6e6e",
+            "#2f312f",
+            "#050505"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 880,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "cffc70a3f97f7136",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 14",
+        "func": "/*for (let i = 0; i < msg.payload.lengh; i++){\n    const element = msg.payload[i];\n}*/\n\nlet element = msg.payload[0];\nmsg.payload = element.coppm;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 600,
+        "wires": [
+            [
+                "0b88139020978faa"
+            ]
+        ]
+    },
+    {
+        "id": "2f3d72659233f898",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 15",
+        "func": "let chart_data = [{\n    \"series\": [\"coppm\"],\n    \"data\": [[]],\n    \"labels\": [\"Equipo_2\"]\n}]\n\nfor (let i = 0; i < msg.payload.length; i++) {\n    let new_data = {};\n    const element = msg.payload[i];\n\n    let fecha_date = element.fecha;\n    let hora_string = element.hora;\n\n    let year = fecha_date.getFullYear();\n    let month = fecha_date.getMonth();\n    let date = fecha_date.getDate();\n\n    let hora = parseInt(hora_string.split(\":\")[0]);\n    let min = parseInt(hora_string.split(\":\")[1]);\n    let sec = parseInt(hora_string.split(\":\")[2]);\n\n    let dataDay = new Date(year, month, date, hora, min, sec, 0);\n\n    let coppm = element.coppm;\n    new_data.x = dataDay;\n    new_data.y = coppm;\n    chart_data[0].data[0].push(new_data);\n}\n\nmsg.payload = chart_data;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 680,
+        "wires": [
+            [
+                "4bbcc3e56cf47a9a"
+            ]
+        ]
+    },
+    {
+        "id": "4bbcc3e56cf47a9a",
+        "type": "ui_chart",
+        "z": "8644ef86eac454ef",
+        "name": "",
+        "group": "5da09075f32d734b",
+        "order": 14,
+        "width": "12",
+        "height": "12",
+        "label": "Historial",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "0",
+        "removeOlderPoints": "20",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 880,
+        "y": 680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "93bd0178f22e755b",
+        "type": "mysql",
+        "z": "8644ef86eac454ef",
+        "mydb": "49b939a689fbc088",
+        "name": "",
+        "x": 510,
+        "y": 680,
+        "wires": [
+            [
+                "2f3d72659233f898"
+            ]
+        ]
+    },
+    {
+        "id": "50240e7964140b4f",
+        "type": "inject",
+        "z": "8644ef86eac454ef",
+        "name": "cada 30 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "30",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 110,
+        "y": 780,
+        "wires": [
+            [
+                "b0cb81a67f9c2e7e"
+            ]
+        ]
+    },
+    {
+        "id": "b0cb81a67f9c2e7e",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 16",
+        "func": "msg.payload = [];\nmsg.topic = \"SELECT * FROM lecturaco2 ORDER BY hora DESC LIMIT 30;\";\nreturn msg;\n//ORDER BY id DESC LIMIT 20\n//\"SELECT temperatura FROM lecturatemperatura ORDER BY id ASC LIMIT 1;\";",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 320,
+        "y": 780,
+        "wires": [
+            [
+                "67d9e369fa7ae023",
+                "161bd1763b43f12f"
+            ]
+        ]
+    },
+    {
+        "id": "67d9e369fa7ae023",
+        "type": "mysql",
+        "z": "8644ef86eac454ef",
+        "mydb": "49b939a689fbc088",
+        "name": "",
+        "x": 490,
+        "y": 780,
+        "wires": [
+            [
+                "ffca1de96c0e08d0"
+            ]
+        ]
+    },
+    {
+        "id": "423c070470033669",
+        "type": "ui_gauge",
+        "z": "8644ef86eac454ef",
+        "name": "",
+        "group": "bc99911163a35e26",
+        "order": 4,
+        "width": "10",
+        "height": "8",
+        "gtype": "gage",
+        "title": "CO2ppm",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "35",
+        "colors": [
+            "#6eb985",
+            "#3dbc34",
+            "#096725"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 860,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "ffca1de96c0e08d0",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 17",
+        "func": "/*for (let i = 0; i < msg.payload.lengh; i++){\n    const element = msg.payload[i];\n}*/\n\nlet element = msg.payload[0];\nmsg.payload = element.co2ppm;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 680,
+        "y": 780,
+        "wires": [
+            [
+                "423c070470033669"
+            ]
+        ]
+    },
+    {
+        "id": "a5252cf16be02511",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 18",
+        "func": "let chart_data = [{\n    \"series\": [\"co2ppm\"],\n    \"data\": [[]],\n    \"labels\": [\"Equipo_2\"]\n}]\n\nfor (let i = 0; i < msg.payload.length; i++) {\n    let new_data = {};\n    const element = msg.payload[i];\n\n    let fecha_date = element.fecha;\n    let hora_string = element.hora;\n\n    let year = fecha_date.getFullYear();\n    let month = fecha_date.getMonth();\n    let date = fecha_date.getDate();\n\n    let hora = parseInt(hora_string.split(\":\")[0]);\n    let min = parseInt(hora_string.split(\":\")[1]);\n    let sec = parseInt(hora_string.split(\":\")[2]);\n\n    let dataDay = new Date(year, month, date, hora, min, sec, 0);\n\n    let co2ppm = element.co2ppm;\n    new_data.x = dataDay;\n    new_data.y = co2ppm;\n    chart_data[0].data[0].push(new_data);\n}\n\nmsg.payload = chart_data;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 680,
+        "y": 860,
+        "wires": [
+            [
+                "4cc2a284ab105849"
+            ]
+        ]
+    },
+    {
+        "id": "4cc2a284ab105849",
+        "type": "ui_chart",
+        "z": "8644ef86eac454ef",
+        "name": "",
+        "group": "5da09075f32d734b",
+        "order": 14,
+        "width": "12",
+        "height": "12",
+        "label": "Historial",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "0",
+        "removeOlderPoints": "20",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 860,
+        "y": 860,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "161bd1763b43f12f",
+        "type": "mysql",
+        "z": "8644ef86eac454ef",
+        "mydb": "49b939a689fbc088",
+        "name": "",
+        "x": 490,
+        "y": 860,
+        "wires": [
+            [
+                "a5252cf16be02511"
+            ]
+        ]
+    },
+    {
+        "id": "6da84d7a7659ddfd",
+        "type": "inject",
+        "z": "8644ef86eac454ef",
+        "name": "cada 30 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "30",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 960,
+        "wires": [
+            [
+                "aa7e3cb3c33bd7d3"
+            ]
+        ]
+    },
+    {
+        "id": "aa7e3cb3c33bd7d3",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 19",
+        "func": "msg.payload = [];\nmsg.topic = \"SELECT * FROM lecturalluvia ORDER BY hora DESC LIMIT 30;\";\nreturn msg;\n//ORDER BY id DESC LIMIT 20\n//\"SELECT temperatura FROM lecturatemperatura ORDER BY id ASC LIMIT 1;\";",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 960,
+        "wires": [
+            [
+                "8ea210fc5abe9941",
+                "3e6f4a41f79ea79b"
+            ]
+        ]
+    },
+    {
+        "id": "8ea210fc5abe9941",
+        "type": "mysql",
+        "z": "8644ef86eac454ef",
+        "mydb": "49b939a689fbc088",
+        "name": "",
+        "x": 510,
+        "y": 960,
+        "wires": [
+            [
+                "6597e55804965feb"
+            ]
+        ]
+    },
+    {
+        "id": "2455d773b91f58c2",
+        "type": "ui_gauge",
+        "z": "8644ef86eac454ef",
+        "name": "",
+        "group": "bc99911163a35e26",
+        "order": 4,
+        "width": "10",
+        "height": "8",
+        "gtype": "gage",
+        "title": "Lluvia",
+        "label": "ppm",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1",
+        "colors": [
+            "#95bfdf",
+            "#4a9cc4",
+            "#165be3"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "className": "",
+        "x": 890,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "6597e55804965feb",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 20",
+        "func": "/*for (let i = 0; i < msg.payload.lengh; i++){\n    const element = msg.payload[i];\n}*/\n\nlet element = msg.payload[0];\nmsg.payload = element.lluvia;\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 960,
+        "wires": [
+            [
+                "2455d773b91f58c2"
+            ]
+        ]
+    },
+    {
+        "id": "6772556327e85048",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 21",
+        "func": "let chart_data = [{\n    \"series\": [\"lluvia\"],\n    \"data\": [[]],\n    \"labels\": [\"Equipo_2\"]\n}]\n\nfor (let i = 0; i < msg.payload.length; i++) {\n    let new_data = {};\n    const element = msg.payload[i];\n\n    let fecha_date = element.fecha;\n    let hora_string = element.hora;\n\n    let year = fecha_date.getFullYear();\n    let month = fecha_date.getMonth();\n    let date = fecha_date.getDate();\n\n    let hora = parseInt(hora_string.split(\":\")[0]);\n    let min = parseInt(hora_string.split(\":\")[1]);\n    let sec = parseInt(hora_string.split(\":\")[2]);\n\n    let dataDay = new Date(year, month, date, hora, min, sec, 0);\n\n    let lluvia = element.lluvia;\n    new_data.x = dataDay;\n    new_data.y = lluvia;\n    chart_data[0].data[0].push(new_data);\n}\n\nmsg.payload = chart_data;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 1020,
+        "wires": [
+            [
+                "284add110eb0e525"
+            ]
+        ]
+    },
+    {
+        "id": "284add110eb0e525",
+        "type": "ui_chart",
+        "z": "8644ef86eac454ef",
+        "name": "",
+        "group": "5da09075f32d734b",
+        "order": 14,
+        "width": "12",
+        "height": "12",
+        "label": "Historial",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "0",
+        "removeOlderPoints": "20",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 900,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3e6f4a41f79ea79b",
+        "type": "mysql",
+        "z": "8644ef86eac454ef",
+        "mydb": "49b939a689fbc088",
+        "name": "",
+        "x": 510,
+        "y": 1020,
+        "wires": [
+            [
+                "6772556327e85048"
+            ]
+        ]
+    },
+    {
+        "id": "8aa635b83d5625c7",
+        "type": "inject",
+        "z": "8644ef86eac454ef",
+        "name": "cada 30 segundos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "30",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.5",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 130,
+        "y": 1120,
+        "wires": [
+            [
+                "2e15359459cd1ef4"
+            ]
+        ]
+    },
+    {
+        "id": "2e15359459cd1ef4",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 22",
+        "func": "msg.payload = [];\nmsg.topic = \"SELECT c.co2ppm, t.temperatura, c.fecha, c.hora, c.macAddress FROM lecturaco2 c, lecturatemperatura t WHERE c.hora = t.hora AND c.fecha = t.fecha AND c.macAddress = t.macAddress AND t.macAddress = \\\"48:3F:DA:44:08:FA\\\" ORDER BY hora ASC limit 200;\";\nreturn msg;\n//ORDER BY id DESC LIMIT 20\n//\"SELECT temperatura FROM lecturatemperatura ORDER BY id ASC LIMIT 1;\";",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 1120,
+        "wires": [
+            [
+                "28fd6308815067d9"
+            ]
+        ]
+    },
+    {
+        "id": "28fd6308815067d9",
+        "type": "mysql",
+        "z": "8644ef86eac454ef",
+        "mydb": "49b939a689fbc088",
+        "name": "",
+        "x": 510,
+        "y": 1120,
+        "wires": [
+            [
+                "b50584ca77dac1d2"
+            ]
+        ]
+    },
+    {
+        "id": "b50584ca77dac1d2",
+        "type": "function",
+        "z": "8644ef86eac454ef",
+        "name": "function 23",
+        "func": "let chart_data = [{\n    \"series\": [\"Temperatura\", \"co2ppm\"],\n    \"data\": [[],[]],\n    \"labels\": [\"temp\", \"co2\"]\n}]\n\nlet temperatura_data = [];\nlet co2ppm_data = [];\n\nfor (let i = 0; i < msg.payload.length; i++) {\n    var new_data = {};\n    const element = msg.payload[i];\n    new_data.x = element.Temperatura;\n    new_data.y = element.Co2ppm;\n\n    let fecha_date = element.fecha;\n    let hora_string = element.hora;\n\n    let year = fecha_date.getFullYear();\n    let month = fecha_date.getMonth();\n    let date = fecha_date.getDate();\n\n    let hora = parseInt(hora_string.split(\":\")[0]);\n    let min = parseInt(hora_string.split(\":\")[1]);\n    let sec = parseInt(hora_string.split(\":\")[2]);\n\n    let dataDay = new Date(year, month, date, hora, min, sec, 0);\n\n    let temperatura = element.temperatura;\n    new_data.x = dataDay;\n    new_data.y = temperatura;\n    chart_data[0].data[0].push(new_data);\n\n    let co2ppm = element.co2ppm;\n    new_data.x = dataDay;\n    new_data.y = co2ppm;\n    chart_data[0].data[0].push(new_data);\n\n\n}\n\nmsg.payload = chart_data;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 1120,
+        "wires": [
+            [
+                "13eda62efc562f92"
+            ]
+        ]
+    },
+    {
+        "id": "13eda62efc562f92",
+        "type": "ui_chart",
+        "z": "8644ef86eac454ef",
+        "name": "",
+        "group": "5da09075f32d734b",
+        "order": 14,
+        "width": "12",
+        "height": "12",
+        "label": "Co2 y Temp",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "auto",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "16",
+        "ymax": "30",
+        "removeOlder": "0",
+        "removeOlderPoints": "20",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1e6c3c",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 910,
+        "y": 1120,
+        "wires": [
+            []
+        ]
+    }
+]
